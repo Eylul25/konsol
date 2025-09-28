@@ -1,0 +1,10 @@
+def not_hesaplama()
+
+print("╔═════════════════════╗")
+print("║    NOT HESAPLAMA    ║")
+print("║═════════════════════║")
+print("║  Öğrencinin Adı:    ║")
+print("║  1.Sınav Notu:      ║")
+print("║  2.Sınav Notu:      ║")
+print("║  Ortalama:          ║")
+print("╚═════════════════════╝")
